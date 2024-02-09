@@ -1,0 +1,39 @@
+.Can you sit at the computer all day?
+yes /
+no 
+
+.Have you ever done programming before?
+yes /
+no
+
+.Are you familiar with layout languages: HTML, XML, GenCode and others?
+yes /
+no
+
+.Are you familiar with languages such as C, C#, C++?
+yes /
+no
+
+.Will you be able to sort out the incomprehensible for you yourself, if necessary?
+yes /
+no
+
+.Do you like to solve logic problems?
+yes /
+no
+
+.You do everything only according to a template?
+yes
+no /
+
+.Did you come into programming on your own?
+yes /
+no
+
+.Laziness is the most important quality of a programmer?
+yes /
+no
+
+.Are you sure you want to become a programmer?
+yes /
+no

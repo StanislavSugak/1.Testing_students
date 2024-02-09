@@ -1,0 +1,11 @@
+.Your name?
+
+.Your last name?
+
+.Your patronymic?
+
+.What educational institution did you study at?
+
+.Have you studied in a specialized class?
+
+.Your average grade of the certificate?

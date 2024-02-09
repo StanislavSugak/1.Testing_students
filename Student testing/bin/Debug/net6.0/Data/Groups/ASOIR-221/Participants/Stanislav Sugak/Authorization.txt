@@ -1,0 +1,2 @@
+login: stanislav
+password: qwertyS
